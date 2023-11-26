@@ -1,0 +1,32 @@
+.navbar-brand img {
+  height: 60px;
+}
+
+.navbar {
+  justify-content: center;
+  text-align: center;
+}
+
+.card {
+  min-width: 150px;
+}
+img {
+  height: 100%;
+  object-fit: cover;
+}
+body {
+  background-color: blueviolet;
+}
+.carousel-item .card-body {
+  background-color: rgb(43, 226, 104);
+}
+#div3 .card {
+  box-shadow: 10px 10px 5px rgb(28, 31, 29);
+}
+footer {
+  margin-top: 20px;
+}
+.p-5 {
+  background-image: url("https://www.touringclub.it/sites/default/files/styles/gallery_full/public/immagini_georiferite/shutterstock_1929820274_0.jpg?itok=KREWO89h");
+  background-size: cover;
+}
